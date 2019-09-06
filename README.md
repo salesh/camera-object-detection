@@ -10,4 +10,4 @@ when you get address go and visit with your mobile phone.
 So in this project i learn some new things about canvas configuration and I got introduced to React and read something about
 this libraries.
 Thanks @Jackie-Tan for great tutorial.
-Link to the tutorial is here https://towardsdatascience.com/turning-your-mobile-phone-camera-into-an-object-detector-on-your-own-1428055b8e01
+Link to the tutorial is here [a link](https://towardsdatascience.com/turning-your-mobile-phone-camera-into-an-object-detector-on-your-own-1428055b8e01)
